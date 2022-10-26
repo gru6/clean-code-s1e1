@@ -155,11 +155,11 @@ button {
 	display: none;
 }
 
-.editMode .task {
+.edit-mode .task {
 	display: inline-block;
 	width: 224px;
 }
 
-.editMode .list__text {
+.edit-mode .list__text {
 	display: none;
 }
